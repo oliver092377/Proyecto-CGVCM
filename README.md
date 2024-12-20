@@ -1,7 +1,7 @@
 # Proyecto Final
-### Curso: Arquitectura de Computadoras
+### Curso: Computación Gráfica, Visión Computacional y Multimedia
 ## Integrantes:
- - Blanco Trujillo, Antony Jacob
+ - Ccoscco Alvis, Italo Frankdux
  - Mayta Nolasco, Oliver Alessandro
 
 ## Instalación de Requerimientos
@@ -13,7 +13,7 @@ Las versiones recomendadas y estables usadas en el proyecto se encuentran en el 
 - imutils==0.5.4
 - numpy==1.23.5
 - opencv-contrib-python==4.6.0.66
-- sounddevice==0.4.5
+- simpleaudio==1.0.4
 ## Interfaz
 ### Principal:
 Al correr el programa  lo primero que veremos será esta interfaz la cual nos dará a elegir entre 2 opciones:<br>
