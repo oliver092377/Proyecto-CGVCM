@@ -28,5 +28,5 @@ NOTA: Para salir de esta interfaz, coloca el cursor en el cuadrado rojo.
 <img src= "imagenes/tutorial.PNG"><br>
 ### Juego:
 Esta es la interfaz del juego propiamente, lo que se muestra en la esquina superior es el puntaje del usuario, y el rectángulo más grande, es el área donde aparecerán los círculos que van a reproducir las notas y finalmente en la parte superior se encuentra el nombre de la canción que se está reproduciendo<br>
-<img src= "imagenes/juego.PNG"><br>
+<img src= "imagenes/Juego.PNG"><br>
 
